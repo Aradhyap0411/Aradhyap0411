@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aradhyap0411
-- 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning C++, and some devs tools
-- 💞️ I’m looking to collaborate on ..
+- 👀 I have interest in tech and learning at my own pace one thing at a time.
+- 🌱 I have just started out in this side of world, I'm working on javascript recently. My aim is to explore more write more code.
 - 📫 You can reach me at aradhyap0411@gmail.com
 
 <!---
